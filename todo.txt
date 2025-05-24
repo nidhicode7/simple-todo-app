@@ -1,0 +1,2 @@
+- Learn Git basics
+- Practice GitHub pull requests
